@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<update>
+    <version>2026.0211.2</version>
+    <apkUrl>https://update.xdove.win/api/raw?files=RootFS::/apk/app-arm64-v8a-release.apk</apkUrl>
+    <sha256></sha256>
+    <skipSha256>true</skipSha256>
+    <force>false</force>
+    <notes></notes>
+</update>
